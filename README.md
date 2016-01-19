@@ -9,6 +9,10 @@ Use python to implement the algorithm and datastruct
 4. implementing the algorithm
 5. running algorithm on the data
 
+python
+
+week one
+
 ---
 
 Start at: 10/10/2015
